@@ -1,28 +1,24 @@
 # Prediction of Health Insurance Fraud Claim Using Supervided Machine Learning
 
  # MOTIVATION FOR THE PROJECT
-In our modern culture, if a single person, particularly a woman, must travel not only during the day but also at night, there is a sense of insecurity, a lack of trust in the driver, and all of this produces worry for the rider, therefore we picked this.
-To improve their personal safety, and make their surroundings more secure in order to foster a sense of confidence and peace of mind among all of them.
-
+ To prevent the serious losses to the insurance company and also increase the revenue of the company by avoiding wastages on false claim and increase the customer satisfication.The process being with relation of features based on information gained and is followed by the creation of prediction using various machine learning techniques.For developing this model to avoid the frauds in healthcare insurance claims by automatically acknowledging whether in customers claim is frauds or not. 
 # ABSTRACT
-Our driver verification application seeks to create a reliable and safe conduit between clients, drivers, and service providers.
-Drivers are put through a rigorous verification procedure, which includes police verification, upon registration in order to verify their validity and compliance with safety regulations. 
-Network security technique and  AES algorithm are employed to nurture a safe and efficient ride-hailing environment.
-We want to encourage openness, accountability, dependability.
-
+The healthcare industry is a complex system and it is expanding at a rapid pace. At the same time fraud in this industry is turning into a critical problem.
+Machine learning and data mining techniques are used for automatically detecting the healthcare frauds. In this paper, we attempt to give a review on frauds in healthcare industry and the techniques for detecting such frauds.
+Different  machine  learning  algorithm  are carried  out  in  this paper Random Forest , Naive Bayes and Logistic Regression is used predict the fraud claim.
+To use bivariate and univariate analysis in this project .
 # SOFTWARE REQUIREMENTS
-The software requirements provide a basis for creating the software requirements specification.  It is useful in estimating cost, planning team activities, performing tasks and tracking the teams and tracking the team’s progress throughout the development activity.
-FRONT END 			:           J2EE (JSP) 
-BACK END			:           JAVA (SERVLET)
-DATABASE			:           MYSQL 5.5
-OPERATING SYSTEM 	              :           WINDOWS 7 and  Above
-IDE				             :             ECLIPSE
-
+Operating System 	: Windows 10 or later
+Tool   		            : Anaconda with Jupiter Notebook
 # HARDWARE REQUIREMENT
-They are used by software engineers as the starting point for the system design. It shows what the system does and not how it should be implemented.
-PROCESSOR			:         DUAL CORE 2 DUOS
-RAM				:	4 GB DD RAM
-HARD DISK 			:	250 GB
+Processor   		: Intel i3
+Hard disk   		: minimum 10 GB
+RAM        		: minimum 4 GB
+
+# ALGORITHM IMPLEMENTATION WITH ACCURACY 
+It is important to compare the performance of multiple different machine learning algorithms consistently .
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees
+
 
 
 
